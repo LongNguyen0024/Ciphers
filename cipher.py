@@ -2,7 +2,7 @@
 #       To run in command prompt:                                                    #
 #       python cipher.py <CIPHER NAME> <KEY> <ENC/DEC> <INPUTFILE> <OUTPUT FILE>     #
 ######################################################################################
-####modify
+####thisisl
 import sys
 
 def main():
